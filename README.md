@@ -10,7 +10,7 @@ The dataset images were normalized with the combination of four stain normalizat
 | Image | Channels | Color depth | File Format | Total of images |
 | --- | --- | --- | --- | --- |
 | Original images | 3 | 8-bit | TIFF | 456 |
-| Gold standard masks | 1 | 1-bit | PNG | 456 |
+| Gold standard masks | 3 | 8-bit | PNG | 456 |
 | Normalized images | 3 | 8-bit | JPG | 5472 |
 
 ### Dataset Access
