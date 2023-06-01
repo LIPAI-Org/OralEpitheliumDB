@@ -12,7 +12,6 @@ The dataset images were normalized with the combination of four stain normalizat
 | Original images | 3 | 8-bit | TIFF | 456 |
 | Gold standard masks | 3 | 8-bit | PNG | 456 |
 | Normalized images | 3 | 8-bit | JPG | 5472 |
-|Segmented Images|3|8-bit|JPG|59280|
 
 ### Dataset Access
 The dataset can be downloaded [here](https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/EtqokNore6VBr1LsuHi_S28B-umctOjftpw382ZC2DJTrw?e=tVI4vZ)
