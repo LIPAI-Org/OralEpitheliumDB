@@ -14,4 +14,4 @@ The dataset images were normalized with the combination of four stain normalizat
 | Normalized images | 3 | 8-bit | JPG | 5472 |
 
 ### Dataset Access
-The dataset can be downloaded [here]([https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/EtqokNore6VBr1LsuHi_S28B-umctOjftpw382ZC2DJTrw?e=tVI4vZ](https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/Erdu9z-S9txJjG5AAcuOgL4BY1Gga5piP9zpY_5q54S8Fw)https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/Erdu9z-S9txJjG5AAcuOgL4BY1Gga5piP9zpY_5q54S8Fw)
+The dataset can be downloaded [here](https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/Erdu9z-S9txJjG5AAcuOgL4BrKAjqRYPCyDWmAqohIpqCg?e=1scP08)
